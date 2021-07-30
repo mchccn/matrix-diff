@@ -1,0 +1,23 @@
+{
+    "name": "@cursorsdottsx/matrix-diff",
+    "version": "1.0.0",
+    "description": "Difference of two matrices on a scale of 0 to 1.",
+    "main": "dist/index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cursorsdottsx/matrix-diff.git"
+    },
+    "keywords": [],
+    "author": "im-lonely <cursors.dev@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/cursorsdottsx/matrix-diff/issues"
+    },
+    "homepage": "https://github.com/cursorsdottsx/matrix-diff#readme",
+    "devDependencies": {
+        "@types/node": "^16.4.7",
+        "tslib": "^2.3.0",
+        "typescript": "^4.3.5"
+    }
+}
